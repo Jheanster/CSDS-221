@@ -1,0 +1,27 @@
+div h1 {
+    color: red;
+  }
+  
+  body {
+      margin: 1rem;
+      padding: 1rem;
+  }
+  #name-prompt {
+      padding-top: 0.75rem;
+  }
+  #buttons {
+      float: right;
+      padding-right: 4rem;
+      margin-top: -0.5rem;
+  }
+  
+  #buttons button {
+      padding: 1rem 10rem;
+  }
+  #range {
+      padding: 0;
+  }
+  
+  .error {
+    outline: 2px solid red;
+  }
